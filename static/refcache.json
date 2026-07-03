@@ -1835,6 +1835,10 @@
     "StatusCode": 206,
     "LastSeen": "2026-06-27T06:46:06.613389415Z"
   },
+  "https://docs.docker.com/get-docker/": {
+    "StatusCode": 206,
+    "LastSeen": "2026-06-25T05:40:58.974138582Z"
+  },
   "https://docs.docker.com/get-started/get-docker/": {
     "StatusCode": 206,
     "LastSeen": "2026-06-29T13:25:51.781863229Z"
@@ -4138,10 +4142,6 @@
   "https://github.com/akahenry/dynatrace-otel-exporter/blob/main/README.md": {
     "StatusCode": 206,
     "LastSeen": "2026-06-30T07:03:25.636402873Z"
-  },
-  "https://github.com/akats7": {
-    "StatusCode": 206,
-    "LastSeen": "2026-06-29T15:29:15.927303657Z"
   },
   "https://github.com/alanwest": {
     "StatusCode": 206,
@@ -11362,6 +11362,10 @@
   "https://github.com/open-telemetry/opentelemetry-java-instrumentation/blob/main/RELEASING.md#release-cadence": {
     "StatusCode": 206,
     "LastSeen": "2026-06-26T06:56:07.823988064Z"
+  },
+  "https://github.com/open-telemetry/opentelemetry-java-instrumentation/blob/main/declarative-config-bridge/src/main/java/io/opentelemetry/instrumentation/config/bridge/ConfigPropertiesBackedDeclarativeConfigProperties.java": {
+    "StatusCode": 206,
+    "LastSeen": "2026-06-24T15:53:09.687911811Z"
   },
   "https://github.com/open-telemetry/opentelemetry-java-instrumentation/blob/main/docs/contributing/javaagent-structure.md": {
     "StatusCode": 206,
